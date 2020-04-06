@@ -1,0 +1,7 @@
+- Opened RStudio Module_09 file
+- Walked through steps of creating New Project, and then New Package
+- Modified metadat in DESCRIPTION and other files to correctly match that of new module.
+- Uploaded DESCRIPTION file to GitHub.
+
+Blog: https://usflearn.instructure.com/eportfolios/36860?verifier=jgwQW3mSXkrWNSIDOTasd4fxTaaED6Hnb2her4v7
+GitHub: https://github.com/CodeRedWorm/Module_10

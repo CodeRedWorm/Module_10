@@ -1,0 +1,10 @@
+Package: Module10
+Type: Package
+Title: Module10 Description file
+Version: 0.0.0.9000
+Date: 2020-04-05
+Author: Christopher Schultz
+Maintainer: Christopher Schultz <cschultz@mail.usf.edu>
+Description: Package created using dataset and code from Module_09
+License: CC0
+LazyData: true
